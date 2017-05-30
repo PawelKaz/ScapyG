@@ -11,10 +11,9 @@ import binascii
 try:
     from PySide.QtCore import *
     from PySide.QtGui import *
-
 except:
-
     print "PySide module is not installed on your system."
+    print "To install it: apt-get install python-pyside"
     sys.exit()
 
 from subprocess import check_output
@@ -30,8 +29,6 @@ except ImportError:
 
 # Import GUI
 from ui_files import pyMainWindow
-
-
 
 __appname__ = "ScapyG"
 __module__ = "main"
