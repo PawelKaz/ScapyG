@@ -1,0 +1,17 @@
+<RCC>
+	<qresource>
+		<file>network.png</file>
+		<file>send.png</file>
+		<file>save.png</file>
+		<file>program.png</file>
+		<file>open.png</file>
+		<file>data_info.png</file>
+		<file>delete.png</file>
+		<file>forward.png</file>
+		<file>advancedsettings.png</file>
+		<file>default_programs.png</file>
+		<file>exit.png</file>
+		<file>view_doc.png</file>
+		<file>Sg.ico</file>
+	</qresource>
+</RCC>
